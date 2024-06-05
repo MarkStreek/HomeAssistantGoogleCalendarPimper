@@ -1,0 +1,7 @@
+{
+  "url": "http://HOMEASSISTANT_IP:WITH_PORT",
+  "temperature_device" : "/api/states/HOMEASSISTANT_TEMP_SENSOR_ID",
+  "wind_device" : "/api/states/HOMEASSISTANT_WIND_SENSOR_ID",
+  "wind_states_average" : "/api/history/period/XXXXXXT06:00:00+02:00?filter_entity_id=HOMEASSISTANT_WIND_SENSOR_ID&minimal_response",
+  "token" : "HOMEASSISTANT_BEARER_TOKEN"
+}
