@@ -7,8 +7,7 @@ You can run the tool every day to obtain useful information in your personal cal
   
 <p align="center">
   <img src="screenshots/popup3.png" alt="Screenshot 2">
-  <br /><br /><br /><br /><br />
-  <img src="screenshots/popup1.png" alt="Screenshot 1">
+  <br /><br />
 </p>
 
 > **Note:** This project only works when you host HomeAssistant and have acces to the REST API. 
