@@ -48,8 +48,6 @@ Fill in the following `HOMEASSISTANT` fields in the `preferences.json` file:
 ![Static Badge](https://img.shields.io/badge/HomeAssistant-REST_API-blue?style=for-the-badge&logo=Homeassistant)
 ![Static Badge](https://img.shields.io/badge/Github-MarkStreek-red?style=for-the-badge&logo=Github&color=%235BB60F&link=https%3A%2F%2Fgithub.com%2FMarkStreek)
 
-## Getting Started
-
 ## Project Tree
 
 ```bash
