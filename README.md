@@ -2,6 +2,8 @@
 
 This repo contains a little python side-project to pimp your Google Calendar. 
 The goal is to provide more daily-useful information in my calendar in the form of events or tasks.
+
+You can run the tool every day to obtain useful information in your personal calendar.
   
 <p align="center">
   <img src="screenshots/popup3.png" alt="Screenshot 2">
