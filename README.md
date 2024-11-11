@@ -12,7 +12,7 @@ You can run the tool every day to obtain useful information in your personal cal
 
 > **Note:** This project only works when you host HomeAssistant and have acces to the REST API. 
 > 
-> Additionally, you have to create a Google Cloud Project and enable the Google Calendar API
+> Additionally, you have to create a Google Cloud Project and enable the Google Calendar API.
 
 For more information about the Google Calendar API, see the [official documentation](https://developers.google.com/calendar). 
 And for more information about home assistant, see the [REST API documentation](https://developers.home-assistant.io/docs/api/rest/).
